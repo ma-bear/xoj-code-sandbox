@@ -1,11 +1,5 @@
 package com.example.xojcodesandbox.utils;
 
-/**
- * @author xq
- * @create 2024/4/5 11:24
- */
-
-
 import cn.hutool.core.util.StrUtil;
 import com.example.xojcodesandbox.model.ExecuteMessage;
 import org.apache.commons.lang3.StringUtils;
@@ -121,4 +115,3 @@ public class ProcessUtils {
         return executeMessage;
     }
 }
-
